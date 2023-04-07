@@ -1,0 +1,44 @@
+{
+  "users": [
+    {
+      "name": "Phong3",
+      "username": "phongthuy33",
+      "id": 3
+    },
+    {
+      "name": "Phong Thuy4",
+      "username": "phongthuy444",
+      "email": "phongthuy4@gmail.com",
+      "phone": "1234567444",
+      "id": 4
+    },
+    {
+      "name": "Phong Thuakfy",
+      "username": "phongtádfhuy111",
+      "email": "phongthfduy1@gmail.com",
+      "phone": "1234567111",
+      "id": 5
+    },
+    {
+      "name": "Phong 234",
+      "username": "phongtádfhuy111",
+      "email": "phongthfduy1@gmail.com",
+      "phone": "1234567111",
+      "id": 6
+    },
+    {
+      "name": "Phong Thuakfy",
+      "username": "phongtádfhuy111",
+      "email": "phongthfduy1@gmail.com",
+      "phone": "1234567111",
+      "id": 1
+    },
+    {
+      "name": "Phong Thuy",
+      "username": "phongthuy333",
+      "email": "phongthuy3@gmail.com",
+      "phone": "1234567333",
+      "id": 7
+    }
+  ]
+}
